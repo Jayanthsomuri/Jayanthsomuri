@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayanthsomuri</h1>
 <h3 align="center">Tech enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/jayanth_somuri" target="blank"><img src="https://img.shields.io/twitter/follow/jayanth_somuri?logo=twitter&style=for-the-badge" alt="jayanth_somuri" /></a> </p>
 
  🌱 I’m currently learning **JS and Data Structures**
 

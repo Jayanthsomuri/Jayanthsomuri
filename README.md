@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayanth_somuri" target="blank"><img src="https://img.shields.io/twitter/follow/jayanth_somuri?logo=twitter&style=for-the-badge" alt="jayanth_somuri" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web development**
 
 - 👯 I’m looking to collaborate on **Interesting Porjects**
 

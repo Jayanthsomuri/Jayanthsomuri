@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/jayanth_somuri" target="blank"><img src="https://img.shields.io/twitter/follow/jayanth_somuri?logo=twitter&style=for-the-badge" alt="jayanth_somuri" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
+ 🌱 I’m currently learning **JS and Data Structures**
 
-- 👯 I’m looking to collaborate on **Interesting Projects**
+ 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Tech**
+ 💬 Ask me about **Tech**
 
-- 📫 How to reach me **jayanthsomuri9@gmail.com**
+ 📫 How to reach me **jayanthsomuri9@gmail.com**
 
 
 

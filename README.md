@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayanthsomuri</h1>
+<h1 align="center">Hi I'm Jayanthsomuri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">Tech enthusiast</h3>
 
  🌱 I’m currently learning **JS & Data Structures**
@@ -8,6 +8,7 @@
  💬 Ask me about **Tech**
 
  📫 How to reach me **jayanthsomuri9@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>

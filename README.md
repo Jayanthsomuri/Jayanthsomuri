@@ -5,7 +5,7 @@
 
  👯 I’m looking to collaborate on **Web Development Projects**
 
- 💬 Ask me about **Tech**
+ 💬 Ask me about **Tech** 
 
  📫 How to reach me **jayanthsomuri9@gmail.com**
 

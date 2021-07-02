@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast</h3>
 
 <p><img align="right"src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" height="250" /> <p>
- 🌱 I’m currently learning **JS & Data Structures**
+ 🌱 I’m currently learning **JavaScript & Data Structures**
 
  👯 I’m looking to collaborate on **Web Development Projects**
 
